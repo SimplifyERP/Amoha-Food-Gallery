@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include amohafoodgallery *.css
+recursive-include amohafoodgallery *.csv
+recursive-include amohafoodgallery *.html
+recursive-include amohafoodgallery *.ico
+recursive-include amohafoodgallery *.js
+recursive-include amohafoodgallery *.json
+recursive-include amohafoodgallery *.md
+recursive-include amohafoodgallery *.png
+recursive-include amohafoodgallery *.py
+recursive-include amohafoodgallery *.svg
+recursive-include amohafoodgallery *.txt
+recursive-exclude amohafoodgallery *.pyc
